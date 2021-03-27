@@ -1,0 +1,16 @@
+>>political_1
+citizen
+country
+
+>>political_2
+nation
+
+>>cultural_1
+people
+answer
+
+>>science_1
+research
+science
+variable
+analyzing

@@ -1,0 +1,14 @@
+I am a great politician. I love my nation and people and citizen. And my nation's people.
+Default_0 : 0
+political_1 : 1
+political_2 : 2
+cultural_1 : 2
+science_1 : 0
+Total score = {'Default': 0, 'political': 5, 'cultural': 2, 'science': 0}
+So there is no way for me to plug it in here in the US unless I go by a converter.
+Default_0 : 0
+political_1 : 0
+political_2 : 0
+cultural_1 : 0
+science_1 : 0
+Total score = {'Default': 0, 'political': 0, 'cultural': 0, 'science': 0}
